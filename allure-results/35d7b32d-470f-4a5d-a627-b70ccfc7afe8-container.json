@@ -1,0 +1,1 @@
+{"uuid":"35d7b32d-470f-4a5d-a627-b70ccfc7afe8","name":"MyAppTest.PowerBi.setUp","children":["7464b2ac-ec10-477e-8df5-59a32ad23d9a"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732603349911,"stop":1732603352642}],"afters":[],"start":1732603349911,"stop":1732603352644}

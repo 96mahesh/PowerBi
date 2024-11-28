@@ -1,0 +1,1 @@
+{"uuid":"47111013-391e-48e7-9c80-8c0d51485bda","name":"MyAppTest.PowerBi.tearDown","children":["e5b9608b-9195-447a-8173-e77db5808ebb"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732684391441,"stop":1732684391922}],"start":1732684391441,"stop":1732684391922}
